@@ -2,7 +2,7 @@
 
 In this project, a form is created using PHP with MySQL integration, allowing users to register and, after registering, log in with their email and password. 
 The form uses password hashing in PHP to ensure the security of the passwords. It also features error messages in case the user leaves any form fields blank or 
-enters incorrect information. This project is inspired by Dave Hollingworth's tutorial on YouTube
+enters incorrect information.
 
 # Main Features
 - PHP & MySQL Integration

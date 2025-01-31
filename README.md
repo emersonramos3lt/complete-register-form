@@ -1,20 +1,27 @@
-# Description
+# **🌐 Secure PHP User Authentication Form**  
 
-## 🌐 Complete PHP form
-In this project, a form is created using **PHP** with **MySQL integration**, allowing users to register and, after registering, **log in with their email and password**. 
-The form uses **password hashing** in PHP to ensure the security of the passwords. It also features error messages in case the user leaves any form fields blank or 
-enters incorrect information.
+This project is a **fully functional user authentication system** built with **PHP** and **MySQL**, enabling users to **register and log in securely** using their email and password. To enhance security, **password hashing** is implemented, ensuring that user credentials remain protected.  
 
-# Main Features
-- **PHP & MySQL Integration**
-- **Password Hashing**
-- **JavaScript Validation with JustValidate**
-- **User Authentication**
+The form includes **real-time validation** using **JustValidate**, providing instant feedback to users and preventing submission errors. Additionally, it features **error handling**, displaying clear messages if required fields are left blank or incorrect credentials are entered.  
 
-# 📷 Screenshots
+This project showcases **secure authentication practices**, **form validation**, and **database integration**, making it a solid foundation for user login systems in web applications.  
+
+---
+
+# **🛠️ Main Features**  
+✅ **PHP & MySQL Integration** – Store and manage user data securely  
+✅ **Password Hashing** – Protects user credentials  
+✅ **JavaScript Validation (JustValidate)** – Ensures real-time input validation  
+✅ **User Authentication** – Secure login system with error handling  
+
+---
+
+# **📷 Screenshots**
 ## Signup page
 ![Screenshot](./screenshot/img1.PNG)
+
 ## Login page
 ![Screenshot](./screenshot/img2.PNG)
+
 ## Home page
 ![Screenshot](./screenshot/img3.PNG)
